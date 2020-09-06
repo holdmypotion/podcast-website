@@ -13,6 +13,9 @@ const Menu = () => (
       <li className="pr-5">
         <Link to="/">Contact Us</Link>
       </li>
+      <li className="pr-5">
+        <Link to="/blog">Blog</Link>
+      </li>
     </ul>
   </div>
 )
